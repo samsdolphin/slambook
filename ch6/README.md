@@ -1,0 +1,1 @@
+1. Do `sudo apt-get install libgoogle-glog-dev libatlas-base-dev libeigen3-dev libsuitesparse-dev` in Ceres Solver 1.14 to install static library. See [this](http://ceres-solver.org/installation.html) for more details.
